@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pedia Plants</string>
+    // Layout
+    <string name="pilih_gambar">select a picture to open the gallery</string>
+    <string name="daftar_ras_judul">list of plants</string>
+    <string name="go_back">back</string>
+    <string name="anggrek">orchid</string>
+    <string name="kaktus">cactus</string>
+    <string name="mawar">rose</string>
+    <string name="anggrek_list_title">list of orchid types</string>
+    <string name="kaktus_list_title">list of cactus types</string>
+    <string name="mawar_list_title">List of types of roses</string>
+    // Orchid Data
+    <string name="diuris_nama">discipled</string>
+    <string name="diuris_asal">Turkey</string>
+    <string name="diuris_deskripsi">Orchids are a dark orchid with a white color</string>
+    <string name="hitam_nama">black</string>
+    <string name="hitam_asal">England</string>
+    <string name="hitam_deskripsi">Black orchids are typical orchids with a black color</string>
+    <string name="vanilla_nama">vanilla</string>
+    <string name="vanilla_asal">Burma/Myanmar</string>
+    <string name="vanilla_deskripsi">This orchid is identical to its vanilla-like shape.</string>
+    <string name="dewa_nama">god</string>
+    <string name="dewa_asal">Iran</string>
+    <string name="dewa_deskripsi">athis nggrek is very famous among orchid lovers</string>
+    // Cactus Data
+    <string name="salju_nama">snow</string>
+    <string name="salju_asal">England</string>
+    <string name="salju_deskripsi">Cactus is a thorny plant that many enthusiasts</string>
+    <string name="kubis_nama">cabbage</string>
+    <string name="kubis_asal">Alaska,Siberia,Finland (snowy region)</string>
+    <string name="kubis_deskripsi">This cactus is named cabbage because of its shape that resembles cabbage.</string>
+    <string name="kursimertua_nama">laws chair</string>
+    <string name="kursimertua_asal">Indonesia</string>
+    <string name="kursimertua_deskripsi">This cactus resembles the in-laws chair </string>
+    // Rose Data
+    <string name="merah_nama">red</string>
+    <string name="merah_asal">Turkey</string>
+    <string name="merah_deskripsi">Roses are plants that have very beautiful flowers.</string>
+    <string name="peace_nama">peace</string>
+    <string name="peace_asal">England</string>
+    <string name="peace_deskripsi">This rose is called peace because of its good color.</string>
+    <string name="ratuelizabet_nama">queen elizabethan</string>
+    <string name="ratuelizabet_asal">Burma/Myanmar</string>
+    <string name="ratuelizabet_deskripsi">This rose is called the queen of elizabet because it is the favorite of the queen of elizabethans.</string>
+    <string name="ratumalam_nama">Queen of the Night</string>
+    <string name="ratumalam_asal">Iran</string>
+    <string name="ratumalam_deskripsi">This rose is said to be the queen of the night because it only develops at night.</string>
+</resources>

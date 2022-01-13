@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tumbuhan Pedia</string>
+    // Layout
+    <string name="pilih_gambar">pilih gambar untuk membukan galeri</string>
+    <string name="daftar_ras_judul">daftar tumbuhan</string>
+    <string name="go_back">kembali</string>
+    <string name="anggrek">anggrek</string>
+    <string name="kaktus">kaktus</string>
+    <string name="mawar">mawar</string>
+    <string name="anggrek_list_title">daftar jenis anggrek</string>
+    <string name="kaktus_list_title">daftar jenis kaktus</string>
+    <string name="mawar_list_title">daftar jenis mawar</string>
+    // Data Anggrek
+    <string name="diuris_nama">diuris</string>
+    <string name="diuris_asal">Turkey</string>
+    <string name="diuris_deskripsi">Oangggrek diuris merupak anggrek dengan warna putih</string>
+    <string name="hitam_nama">hitam</string>
+    <string name="hitam_asal">England</string>
+    <string name="hitam_deskripsi">anggrek hitam merupakn anggrek yang berciri khas dengan warna hitam</string>
+    <string name="vanilla_nama">vanilla</string>
+    <string name="vanilla_asal">Burma/Myanmar</string>
+    <string name="vanilla_deskripsi">anggrek ini identik dengan bentuknya yang menyerupai vanilla</string>
+    <string name="dewa_nama">dewa</string>
+    <string name="dewa_asal">Iran</string>
+    <string name="dewa_deskripsi">anggrek ini sangat terkenal dikalangan pecinta anggrek</string>
+    // Data kaktus
+    <string name="salju_nama">salju</string>
+    <string name="salju_asal">England</string>
+    <string name="salju_deskripsi">kaktus adalah tanaman berduri yang banyak peminatnya</string>
+    <string name="kubis_nama">kubis</string>
+    <string name="kubis_asal">Alaska,Siberia,Finland (snowy region)</string>
+    <string name="kubis_deskripsi">kaktus ini bernama kubis karena bentuknya yang menyerupai kubis</string>
+    <string name="kursimertua_nama">kursimertua</string>
+    <string name="kursimertua_asal">Indonesia</string>
+    <string name="kursimertua_deskripsi">kaktus ini menyerupai kursi mertua </string>
+    // Data Mawar
+    <string name="merah_nama">merah</string>
+    <string name="merah_asal">Turkey</string>
+    <string name="merah_deskripsi">mawar adalah tumbuhan yang memiliki bungan yang sangat indah</string>
+    <string name="peace_nama">peace</string>
+    <string name="peace_asal">England</string>
+    <string name="peace_deskripsi">mawar ini disebut peace karna warnanya yang bagus</string>
+    <string name="ratuelizabet_nama">ratuelizabet</string>
+    <string name="ratuelizabet_asal">Burma/Myanmar</string>
+    <string name="ratuelizabet_deskripsi">mawar ini disebut ratu elizabet karena merupakam kesukaan ratu elizabet</string>
+    <string name="ratumalam_nama">ratumalam</string>
+    <string name="ratumalam_asal">Iran</string>
+    <string name="ratumalam_deskripsi">mawar ini dikatakan ratu malam karna hanya berkembang pada malam hari</string>
+</resources>
